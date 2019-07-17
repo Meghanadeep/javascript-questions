@@ -1,28 +1,3 @@
-# List of (Advanced) JavaScript Questions
-
-I post daily multiple choice JavaScript questions on my [Instagram](https://www.instagram.com/theavocoder), which I'll also post here!
-
-From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview! :muscle: :rocket: I update this repo weekly with new questions. Last update: <a href=#20190714><b>July 14th</b></a>
-
-The answers are in the collapsed sections below the questions, simply click on them to expand it. Good luck :heart:
-
-
-List of available languages:
-* [English](./README.md)
-* [العربية](./README_AR.md)
-* [اللغة العامية - Egyptian Arabic](./README_ar-EG.md)
-* [Bosanski](./README-bs_BS.md)  
-* [Deutsch](./README-de_DE.md)  
-* [Español](./README-ES.md)
-* [日本語](./README-ja_JA.md)  
-* [한국어](./README-ko_KR.md) 
-* [Português Brasil](./README_pt_BR.md)  
-* [Русский](./README_ru-RU.md)  
-* [Українська мова](./README-ua_UA.md)  
-* [Tiếng Việt](./README-vi.md)
-* [中文版本](./README-zh_CN.md)
-* [Türkçe](./README-tr_TR.md)
-
 
 ---
 
